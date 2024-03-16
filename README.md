@@ -1,4 +1,4 @@
-# **<img src="https://github.com/DipcaAnugrah/PARSING_JSON/blob/main/img/file.png" width=70%> PARSING_JSON**
+# **<img src="https://github.com/DipcaAnugrah/PARSING_JSON/blob/main/img/file.png" width=40%> PARSING_JSON**
 
 ``` 
 Nama    : Dipca Anugrah
@@ -33,7 +33,7 @@ implementation("com.github.chuckerteam.chucker:library:3.3.0")
 ```
 
 ## **Result**
-![output](https://github.com/DipcaAnugrah/PARSING_JSON/assets/115719283/e31ddb96-b668-4bf0-87ba-5d441e78b853)
+<img src="https://github.com/DipcaAnugrah/PARSING_JSON/blob/main/img/output.jpg" width=50%>
 
 ## **Link Video**
 Link YouTube -> [Klik disini!]()
