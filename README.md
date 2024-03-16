@@ -1,4 +1,4 @@
-# **<img src="https://github.com/DipcaAnugrah/PARSING_JSON/blob/main/img/file.png" width=20%> PARSING_JSON**
+# **<img src="https://github.com/DipcaAnugrah/PARSING_JSON/blob/main/img/file.png" width=10%> PARSING_JSON**
 
 ``` 
 Nama    : Dipca Anugrah
