@@ -36,4 +36,4 @@ implementation("com.github.chuckerteam.chucker:library:3.3.0")
 <img src="https://github.com/DipcaAnugrah/PARSING_JSON/blob/main/img/output.jpg" width=40%>
 
 ## **Link Video**
-Link YouTube -> [Klik disini!]()
+Link YouTube -> [Klik disini!](https://www.youtube.com/playlist?list=PLuwZtxdijssLGR17Kz4gg8JU_BN16nmD1)
